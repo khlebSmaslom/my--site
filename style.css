@@ -3,7 +3,23 @@ body {
     font-size: 20pt; /* Размер основного шрифта в пунктах  */
     background-color: #cbf1d991; /* Цвет фона веб-страницы */
     color: #000000; /* Цвет основного текста */ 
-    position: relative; 
   }
-   
-  
+
+h1 {
+    text-decoration:underline;
+    text-decoration-color:darkgreen;
+}
+
+h2 {
+ color:darkgreen;
+}
+
+h3 {
+    color:rgb(29, 218, 92);
+    text-decoration: underline;
+    text-decoration-style:dashed;
+}
+
+.nav-link {
+    color: rgb(20, 220, 20);
+}

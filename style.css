@@ -1,9 +1,9 @@
 body {
-    font-style: italic;
-    font-family: Times, Times New Roman, serif; /* Семейство шрифтов */
-    font-size: 24pt; /* Размер основного шрифта в пунктах  */
-    background-color: #FFFFFF; /* Цвет фона веб-страницы */
+    font-family: 'Lora', serif; /* Семейство шрифтов */
+    font-size: 20pt; /* Размер основного шрифта в пунктах  */
+    background-color: #cbf1d991; /* Цвет фона веб-страницы */
     color: #000000; /* Цвет основного текста */ 
+    position: relative; 
   }
     p {
     text-align: justify; /* Выравнивание по ширине */

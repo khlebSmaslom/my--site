@@ -5,9 +5,5 @@ body {
     color: #000000; /* Цвет основного текста */ 
     position: relative; 
   }
-    p {
-    text-align: justify; /* Выравнивание по ширине */
-  
-  }
-  
+   
   

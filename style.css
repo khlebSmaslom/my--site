@@ -23,3 +23,7 @@ h3 {
 .nav-link {
     color: rgb(20, 220, 20);
 }
+
+img {
+    vertical-align: middle;
+}

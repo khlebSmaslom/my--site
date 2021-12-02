@@ -1,6 +1,6 @@
 body {
     font-family: 'Lora', serif; /* Семейство шрифтов */
-    font-size: 20pt; /* Размер основного шрифта в пунктах  */
+    font-size: 26px; /* Размер основного шрифта в пунктах  */
     background-color: #cbf1d991; /* Цвет фона веб-страницы */
     color: #000000; /* Цвет основного текста */ 
   }
@@ -22,4 +22,8 @@ h2 {
 
 img {
     vertical-align: middle;
+}
+
+p {
+    font-size: 29px;
 }

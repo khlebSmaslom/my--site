@@ -12,12 +12,8 @@ h1 {
 
 h2 {
  color:darkgreen;
-}
-
-h3 {
-    color:rgb(29, 218, 92);
-    text-decoration: underline;
-    text-decoration-style:dashed;
+ text-decoration: underline;
+ text-decoration-style:dashed;
 }
 
 .nav-link {
